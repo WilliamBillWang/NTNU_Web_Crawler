@@ -1,0 +1,11 @@
+https://www.ntnu.edu.tw/#tab2 最新消息之文章
+
+https://www.ntnu.edu.tw/static.php?id=adm 行政組織 -> https://www.aa.ntnu.edu.tw/ 教務處 -> 最新消息
+
+https://www.ntnu.edu.tw/static.php?id=adm 行政組織 -> https://www.ga.ntnu.edu.tw/ 總務處 -> 最新消息
+
+https://www.ntnu.edu.tw/static.php?id=adm 行政組織 -> https://www.itc.ntnu.edu.tw/ 資訊中心 ->　https://www.itc.ntnu.edu.tw/index.php/bulletin_board/　最新消息
+
+https://www.ntnu.edu.tw/static.php?id=student 學生 -> https://dorm.sa.ntnu.edu.tw/ 學生宿舍 -> 最新消息
+
+https://www.csie.ntnu.edu.tw/index.php/news/ 台師大資工最新消息
