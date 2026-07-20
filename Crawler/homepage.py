@@ -1,4 +1,6 @@
 from playwright.sync_api import sync_playwright
+from models.news import News
+
 class HomePageCrawler:
 
     def __init__(self): #initiallize
@@ -25,10 +27,7 @@ class HomePageCrawler:
                 title= item.text_content().strip()
                 url = item.locator("a").get_attribute("href")
 
-                pack_news = {
-                    "title" : title,
-                    "url" : url
-                }
+                pack_news = News(title,url)
                 all_news.append(pack_news)
 
             browser.close()

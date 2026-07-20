@@ -4,8 +4,8 @@ from Crawler.homepage import HomePageCrawler
 crawler = HomePageCrawler()
 news = crawler.get_the_latest_news()
 for n in news:
-    print(f"Title : {n["title"]}" )
-    print(f"Url : {n["url"]}" )
+    print(f"Title : {n.title}" )
+    print(f"Url : {n.url}" )
     print("-" * 50)
 
     
