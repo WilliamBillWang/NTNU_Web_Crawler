@@ -1,4 +1,3 @@
-
 from Crawler.homepage import HomePageCrawler
 
 crawler = HomePageCrawler()
